@@ -44,7 +44,9 @@ undertaken by the Data Science Campus formed a part of independent analysis of t
 responses, to identify the main issues raised by respondents.The work was presented to
 the member of the  Children, Young People and Education Committee members and formed 
 part of the Stage 1 report published by the Committee on 2nd August 2019 
+
 http://www.assembly.wales/laid%20documents/cr-ld12708/cr-ld12708-e.pdf
+
 http://www.senedd.assembly.wales/documents/s92871/Independent%20data%20science%20analysis%20of%20the%20consultation%20responses%20-%20Data%20Science%20Campus,%20Office%20for%20Na.pdf
 
 
