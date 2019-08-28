@@ -1,10 +1,13 @@
 # consultation_analysis_nafw
-What this is about ?
+#What this is about ?
 
-Repo containing  a jupyter notebook used for analysing responses to a recent consultation 
+This project analyses free text responses to a consultation gathering opinions on a recent consultation 
 of National Assembly for Wales.
 
-Background of this work ?
+#Team Members
+Dr Chaitanya Joshi
+
+#Background of this work ?
 
 Data Science techniques were used to analyse responses to the National Assembly for 
 Wales Children,Young People and Education Committee’s consultation on the Children (Abolition 
@@ -24,7 +27,7 @@ Moe details about the consultation can be found here
 
 http://senedd.assembly.wales/mgIssueHistoryHome.aspx?IId=24674
 
-Techniques used ?
+#Techniques used ?
 
 Saleint phrases detection using:
 
@@ -33,6 +36,18 @@ Word collocation
 Term-frequency inverse document frequency
 
 Context around the key phrases (particularly important where similar key phrases appeared in different stratas)
+
+#Impact of this work
+Supports Welsh Assembly colleagues in analysis and decision making. 
+In addition to the Committee’s own analysis of the consultation responses, the work 
+undertaken by the Data Science Campus formed a part of independent analysis of the 
+responses, to identify the main issues raised by respondents.The work was presented to
+the member of the  Children, Young People and Education Committee members and formed 
+part of the Stage 1 report published by the Committee on 2nd August 2019 
+http://www.assembly.wales/laid%20documents/cr-ld12708/cr-ld12708-e.pdf
+
+
+
 
 
 
