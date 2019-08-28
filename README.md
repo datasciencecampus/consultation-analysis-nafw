@@ -1,9 +1,11 @@
 # consultation_analysis_nafw
 What this is about ?
+
 Repo containing  a jupyter notebook used for analysing responses to a recent consultation 
 of National Assembly for Wales.
 
 Background of this work ?
+
 Data Science techniques were used to analyse responses to the National Assembly for 
 Wales Children,Young People and Education Committee’s consultation on the Children (Abolition 
 of Defence of Reasonable Punishment) (Wales) Bill (“the Bill”) - introduced by Julie 
@@ -19,13 +21,18 @@ physical punishment, through removal of this defence.
 
 
 Moe details about the consultation can be found here
+
 http://senedd.assembly.wales/mgIssueHistoryHome.aspx?IId=24674
 
 Techniques used ?
+
 Saleint phrases detection using:
+
 Word collocation
+
 Term-frequency inverse document frequency
-Context around the key phrases
+
+Context around the key phrases (particularly important where similar key phrases appeared in different stratas)
 
 
 
