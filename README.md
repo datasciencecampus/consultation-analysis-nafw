@@ -1,13 +1,14 @@
-# consultation_analysis_nafw
-# What this is about ?
+#### consultation_analysis_nafw 
+Automating consultation analysis: bringing data science to the heart of decision making
+#### What this is about ?
 
 This project analyses free text responses to a consultation gathering opinions on a recent consultation 
 of National Assembly for Wales.
 
-# Team Members
+#### Team Members
 Dr Chaitanya Joshi 
 
-# Background of this work ?
+#### Background of this work ?
 
 Data Science techniques were used to analyse responses to the National Assembly for 
 Wales Children,Young People and Education Committee’s consultation on the Children (Abolition 
@@ -27,7 +28,7 @@ Moe details about the consultation can be found here
 
 http://senedd.assembly.wales/mgIssueHistoryHome.aspx?IId=24674
 
-# Techniques used ?
+#### Techniques used ?
 
 Saleint phrases detection using:
 
@@ -37,7 +38,7 @@ Term-frequency inverse document frequency
 
 Context around the key phrases (particularly important where similar key phrases appeared in different stratas)
 
-# Impact of this work
+#### Impact of this work
 Supports Welsh Assembly colleagues in analysis and decision making. 
 In addition to the Committee’s own analysis of the consultation responses, the work 
 undertaken by the Data Science Campus formed a part of independent analysis of the 
