@@ -42,7 +42,7 @@ Supports Welsh Assembly colleagues in analysis and decision making.
 In addition to the Committee’s own analysis of the consultation responses, the work 
 undertaken by the Data Science Campus formed a part of independent analysis of the 
 responses, to identify the main issues raised by respondents.The work was presented to
-the member of the  Children, Young People and Education Committee members and formed 
+the Children, Young People and Education Committee members and formed 
 part of the Stage 1 report published by the Committee on 2nd August 2019 
 
 http://www.assembly.wales/laid%20documents/cr-ld12708/cr-ld12708-e.pdf
